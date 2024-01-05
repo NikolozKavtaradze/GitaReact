@@ -33,3 +33,5 @@ numArray.forEach(element => {
         console.log(element);
     }
 });
+
+navig
